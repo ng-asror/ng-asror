@@ -1,16 +1,23 @@
-## Hi there 👋
+<h3>Привет, всем! Я Асрор Шодиев 👋</h3>
 
-<!--
-**asroor/asroor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const aboutMe = {
+    name: 'Асрор',
+    experience: {
+        currently: [
+            'Angular разработчик',
+        ],
+        previously: [
+            'Верстальщик',
+            'Frontend разработчик',
+        ],
+    },
+    education: {
+        previously: 'Академия технологий Tasnim',
+    },
+    links: {
+        github: 'https://github.com/asroor',
+        website: 'https://www.shodiev.uz'
+    },
+    quote: 'Все хотят писать идеальный код, но никто не хочет исправлять ошибки. - Асрор Шодиев'
+}
