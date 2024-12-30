@@ -17,6 +17,7 @@ const aboutMe = {
     },
     links: {
         github: 'https://github.com/asroor',
+        kwork: 'https://kwork.ru/user/smartcoder'
         website: 'https://www.shodiev.uz'
     },
     quote: 'Все хотят писать идеальный код, но никто не хочет исправлять ошибки. - Асрор Шодиев'
