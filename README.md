@@ -16,7 +16,7 @@ const aboutMe = {
         previously: 'Академия технологий Tasnim',
     },
     links: {
-        github: 'https://github.com/asroor',
+        github: 'https://github.com/ng-asror',
         kwork: 'https://kwork.ru/user/smartcoder',
         website: 'https://www.shodiev.uz'
     },
